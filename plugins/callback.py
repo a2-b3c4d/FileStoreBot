@@ -55,29 +55,13 @@ async def about_cb(c, m):
     bot = await c.get_me()
 
     # about text
-#    about_text = f"""--**Mʏ Dᴇᴛᴀɪʟs:**--
-
-#**⚜ Mʏ ɴᴀᴍᴇ : FɪʟᴇSᴛᴏʀᴇBᴏᴛ**\n
-#**🔸Vᴇʀꜱɪᴏɴ :** `3.0.1`\n
-#**🔹Sᴏᴜʀᴄᴇ :** [Cʟɪᴄᴋ Hᴇʀᴇ 🥰](https://github.com/avipatilpro/FileStoreBot)\n
-#**🔸GitHub :** [Fᴏʟʟᴏᴡ](https://GitHub.com/avipatilpro)\n
-#**🔹Dᴇᴠᴇʟᴏᴘᴇʀ :** [Aᴠɪsʜᴋᴀʀ Pᴀᴛɪʟ](https://telegram.me/Avishkarpatil)\n
-#**🔸Lᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ :** [[ 11-ᴊᴜʟʏ-21 ] 04:35 PM](https://telegram.me/AvishkarPatil)
-#"""
-
     about_text = f"""--**🍺 Mʏ Dᴇᴛᴀɪʟs:**--
     
 ╭───[ **🔅 FɪʟᴇSᴛᴏʀᴇBᴏᴛ 🔅** ]───⍟
 │
 ├**🔸Vᴇʀꜱɪᴏɴ :** `3.0.1`
 │
-├**🔹Sᴏᴜʀᴄᴇ :** [Cʟɪᴄᴋ Hᴇʀᴇ 🥰](https://github.com/avipatilpro/FileStoreBot)
-│
-├**🔸GitHub :** [Fᴏʟʟᴏᴡ](https://GitHub.com/avipatilpro)
-│
-├**🔹Dᴇᴠᴇʟᴏᴘᴇʀ :** [Aᴠɪsʜᴋᴀʀ Pᴀᴛɪʟ](https://telegram.me/Avishkarpatil)
-│
-├**🔸Lᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ :** [[ 12-ᴊᴜʟʏ-21 ]](https://telegram.me/AvishkarPatil)
+├**🔹Dᴇᴠᴇʟᴏᴘᴇʀ :** [Mᴏᴍᴏ Aʏᴀsᴇ](https://t.me/Momo_Ayase_bot)
 │
 ╰─────────[ 😎 ]────────⍟
 """  
